@@ -1,0 +1,6 @@
+{
+  "name": "دوره ویدیویی برنامه‌نویسی اندروید",
+  "description": "سامانه آموزش ۱۲۰ درس ویدیویی برنامه‌نویسی اندروید با زبان کاتلین، Jetpack Compose، دیتابیس Room و پخش‌کننده Media3 ExoPlayer به زبان فارسی با طراحی Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
